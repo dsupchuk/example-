@@ -1,0 +1,12 @@
+.main-list {
+  box-sizing: border-box;
+  overflow: hidden;
+  height: 80vh;
+  margin: 0 15%;
+}
+.main-list h1 {
+  padding-top: 10%;
+}
+.main-list p {
+  padding-top: 10%;
+}
